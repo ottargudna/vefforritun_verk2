@@ -1,5 +1,4 @@
 
-
 document.addEventListener('DOMContentLoaded', () => {
     const synth = new Tone.Synth().toDestination();
     const playButton = document.getElementById('tunebtn');
